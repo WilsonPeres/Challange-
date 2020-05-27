@@ -1,0 +1,57 @@
+
+body {
+  background-color: gainsboro;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.input{
+  background-color: white;
+  border: solid black 2px;
+  height: 25px;
+  width: 300px;
+  font-weight: bold;
+  text-align: center;
+}
+.container{
+ margin-left: 25%;
+ margin-right: 25%;
+ margin-top: 5%;
+ border: solid black 7px;
+ height: 650px;
+ background-color:lightblue;
+}
+.deleteButton{
+  background-color: red;
+  float: right;
+  margin-right: 40px;
+  width: 50px;
+  border: solid black 2px;
+  font-weight: bold;
+}
+.ListItem{
+ color:black;
+ font-size: 25px;
+ text-align: left;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+div{
+  text-align: center;
+}
+.AddButton{
+  border: solid black 2px;
+  width: 50px;
+  background-color: salmon;
+  font-weight: bold;
+}
